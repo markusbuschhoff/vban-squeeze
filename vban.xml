@@ -1,0 +1,15 @@
+<extensions>
+  <details>
+    <title lang="EN">Extensions by Markus Buschhoff</title>
+  </details>
+  <plugins>
+    <plugin name="VBAN" creator="Markus Buschhoff" 
+        version="0.1" minTarget="7.4" maxTarget="*"    
+        sha="9e93dd18e8d832e7d4785ccc3d171e4bad4e9ed1" 
+        url="https://raw.githubusercontent.com/markusbuschhoff/vban-squeeze/master/vban-0.1.zip" 
+        link="https://github.com/markusbuschhoff/vban-squeeze">
+      <title lang="EN">VBAN</title>
+      <desc lang="EN">Play VBAN streams on your devices.</desc>
+    </plugin>
+  </plugins>
+</extensions>

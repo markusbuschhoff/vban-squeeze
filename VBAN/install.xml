@@ -4,7 +4,7 @@
 	<name>PLUGIN_VBAN</name>
 	<module>Plugins::VBAN::Plugin</module>
 	<playerMenu>RADIO</playerMenu>
-	<version>1.04</version>
+	<version>0.1</version>
 	<description>PLUGIN_VBAN_DESC</description>
 	<creator>Markus Buschhoff</creator>
 	<defaultState>enabled</defaultState>
