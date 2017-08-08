@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<extension>
+	<name>PLUGIN_VBAN</name>
+	<module>Plugins::VBAN::Plugin</module>
+	<playerMenu>RADIO</playerMenu>
+	<version>1.04</version>
+	<description>PLUGIN_VBAN_DESC</description>
+	<creator>Markus Buschhoff</creator>
+	<defaultState>enabled</defaultState>
+	<homepageURL></homepageURL>
+	<icon>plugins/VBAN/html/images/vban.png</icon>
+	<type>2</type><!-- type=extension -->
+	<targetApplication>
+		<id>Squeezecenter</id>
+		<minVersion>7.3</minVersion>
+		<maxVersion>7.*</maxVersion>
+	</targetApplication>
+	<targetPlatform>Linux</targetPlatform>
+
+</extension>

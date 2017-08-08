@@ -1,0 +1,10 @@
+# String file for VBAN plugin
+
+PLUGIN_VBAN
+	EN	VBAN
+
+PLUGIN_VBAN_DESC
+	EN	Play VBAN (http://www.vb-audio.com/Voicemeeter/vban.htm) streams on your Squeeze devices. Stream from URL vban://host[:port]/streamname.
+
+VBAN
+	EN	VBAN
